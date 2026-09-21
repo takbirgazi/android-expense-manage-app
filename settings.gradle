@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Digital Moneybag"
+rootProject.name = "Expenses"
 include ':app'
